@@ -22,5 +22,5 @@ pip==10.0.1
 python-dateutil==2.8.0
 python-editor==1.0.4
 pytz==2018.9
-setuptools==39.1.0
+setuptools==65.5.1
 six==1.12.0
